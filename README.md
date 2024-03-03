@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @silentfix
-- 👀 I’m interested in the world of crypto
-- 🌱 I’m currently learning react
-- 📫 silentfix at discord
+👋 Hi, I’m @silentfix\
+👀 I’m interested in the world of crypto\
+🌱 I’m currently learning react\
+📫 silentfix at discord
 
 <!---
 silentfix/silentfix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
